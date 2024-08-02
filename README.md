@@ -1,5 +1,3 @@
-# xray_image_processing
-
 Damaged Xray images’ processing
 
 
@@ -58,4 +56,4 @@ After the image processing we reach 77% accuracy
 
  
 
-![image](https://github.com/user-attachments/assets/1ba61f9d-59d1-4332-8e47-253fe930ad58)
+![image](https://github.com/user-attachments/assets/bc6424f3-8250-4903-a09b-f97fce507da5)
